@@ -1,16 +1,28 @@
-## Hi there 👋
+# CV
+## Formación profesional
+* Grado superior en **documentación y administración sanitaria.**
+* Grado superior en **desarrollo de aplicaciones multiplataforma.**
+- *Actualmente* cursando el grado superior de **desarrollo de aplicaciones web.**
+![ordenador](https://www.tpvmax.es/395/ordenador-sobremesa-monitor-19.jpg)
 
-<!--
-**Elena2816/Elena2816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Formación                                                                 |
+|---------------------------------------------------------------------------|
+| Grado superior en **documentación y administración sanitaria**            |
+| Grado superior en **desarrollo de aplicaciones multiplataforma**          |
+| *Actualmente* cursando el grado superior de **desarrollo de aplicaciones web** |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Cursos
+* Curso de seguridad informática por inFoca formación.
+* Curso de prevención riesgos laborales.
+
+## Idiomas
+Certificado nivel B1 de inglés por el instituto de Cambridge.
+
+## Otros
+* Carné de conducir.
+* Vehículo propio.
+
+### Enlace https
+//i.pinimg.com/originals/89/50/5d/89505d16d932d8cca00011c78a54a69d.gif
